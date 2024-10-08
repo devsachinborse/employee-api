@@ -1,0 +1,7 @@
+env: "dev"
+db_path: "db/storage.db"
+http_server:
+  listenAddr:"localhost:8080"
+
+
+ 
